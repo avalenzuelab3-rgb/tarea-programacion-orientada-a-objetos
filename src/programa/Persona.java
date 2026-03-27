@@ -1,4 +1,4 @@
-package introduccion;
+package programa;
 
 public class Persona {
 
